@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "be.eloiexperiments.overrideandroidvolume": "https://gitlab.com/eloistree/2019_06_30_overrideandroidvolume.git",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
@@ -7,7 +8,6 @@
     "com.unity.purchasing": "2.0.6",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.0.0",
-    "com.unity.xr.oculus.android": "1.38.2",
     "com.unity.xr.oculus.standalone": "1.38.2",
     "com.unity.xr.openvr.standalone": "1.0.5",
     "com.unity.modules.ai": "1.0.0",
@@ -40,5 +40,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "be.eloiexperiments.overrideandroidvolume": {
+      "hash": "07993c0720265a8208dc138e4d1b548842b54a0c",
+      "revision": "HEAD"
+    }
   }
 }
